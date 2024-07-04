@@ -11,10 +11,10 @@
 - **1** See multiplication tables quickly and easily 🎈
 - **2** Nothing ❌
 - **3** Nothing ❌
-- **4** Nothing ❌
-- **5** Nothing ❌
 
 ---
 <div align="center">
 
 <img src = "https://media.tenor.com/CCtIBXYKGoMAAAAj/giga-chad-chatting.gif">
+
+</div>
