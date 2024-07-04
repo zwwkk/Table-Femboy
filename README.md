@@ -6,13 +6,13 @@
 
 ##  What's it for?
 
+</div>
+
 - **1** See multiplication tables quickly and easily 🎈
 - **2** Nothing ❌
 - **3** Nothing ❌
 - **4** Nothing ❌
 - **5** Nothing ❌
-
-</div>
 
 ---
 <div align="center">
